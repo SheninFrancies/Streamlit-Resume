@@ -180,7 +180,7 @@ txt('Big Data Foundations - Level 2', 'IBM',
     'Dec 2022')
 txt('Python for Data Science and Machine Learning Bootcamp', 'Udemy',
     'Dec 2022')
-txt('Calibration, Testing and Maintenance of Medical Devices', 'Cyrix Healthcaree Pvt. Ltd.',
+txt('Calibration, Testing and Maintenance of Medical Devices', 'Cyrix Healthcare Pvt. Ltd.',
     'Oct 2022')
 txt('Certified Project Manager', 'Excellenter Institute',
     'July 2021')
