@@ -168,7 +168,7 @@ txt2('Descriptive Statistics', '`SciPy`')
 txt2('Big Data Analysis', '`Apache Spark`')
 txt2('Machine Learning', '`Scikit-learn`')
 txt2('Deep Learning', '`TensorFlow`, `Keras`')
-txt2('Model deployment', '`Streamlit`, `AWS`')
+txt2('Model deployment', '`AWS`')
 
 #####################
 st.markdown('''
