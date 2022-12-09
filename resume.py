@@ -189,7 +189,7 @@ txt('Certified Project Manager', 'Excellenter Institute',
 st.markdown('''
 ## Personal Projects
 ''')
-txt3('Deploying ML Projects using Streamlit and Python', 'Deploying completed ML projects using Streamlit in conjunction with Python',
+txt3('Application of Deep Learning and Machine Learning', 'Scavenging data from the internet and employing ML/DL Techniques',
      'December 2022 - Present')
 txt3('Applications of Machine Learning in Healthcare', 'Implemented Machine Learning algorithms to make predictions on various healthcare datasets',
      'December 2022')
